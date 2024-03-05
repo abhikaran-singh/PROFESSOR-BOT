@@ -1,23 +1,23 @@
 class script(object):  
-    START_TXT = """<b>✨ Hᴇʟʟᴏ {user}.
+    START_TXT = """<b>✨ Hello {user}.
 
-Mʏ Nᴀᴍᴇ Is {bot}.
+My Name Is {bot}.
 
-I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ</b>"""
+I Can Provide Movies Just Add Me To Your Group Or Join Our Group</b>"""
     
-    HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
+    HELP_TXT = "Hᴇʏ {}\nHere Is My Help"
 
-    ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/Mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a>
-✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
-✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
-✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
-✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ4.5.0</b>"""
+    ABOUT_TXT = """<b>✯ My Name: {}
+✯ Developer: <a herf=https://t.me/moviecrownofficial>Movie Crown</a>
+✯ Coded On: Python/Pyrogram
+✯ My Database: Mongo_DB
+✯ My Server: Render
+✯ My Version: Devil Bot v1.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/MrMKN/PROFESSOR-BOT>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
+- Source Code Here ◉› :<a href=https://github.com/MrMKN/PROFESSOR-BOT>Professor Bot</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/Mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a></b>"""
+<b>Dev: <a herf=https://t.me/moviecrownofficial>Movie Crown</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
